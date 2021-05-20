@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appStatus</key>
+	<true/>
+	<key>appMessage</key>
+	<string>Please update to the new version, for the best experience.</string>
+	<key>appUrl</key>
+	<string>https://apps.apple.com/app/id1565818360</string>
+</dict>
+</plist>
