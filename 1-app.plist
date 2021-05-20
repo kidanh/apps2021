@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>appStatus</key>
-	<false/>
+	<true/>
 	<key>appMessage</key>
 	<string>Please update to the new version, for the best experience.</string>
 	<key>appUrl</key>
