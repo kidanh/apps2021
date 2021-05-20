@@ -5,7 +5,7 @@
 	<key>appID</key>
 	<true/>
 	<key>appNew</key>
-	<false/>
+	<true/>
 	<key>appMessage</key>
 	<string>Please update to the new version, for the best experience.</string>
 	<key>appURL</key>
