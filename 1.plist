@@ -5,7 +5,7 @@
 	<key>appID</key>
 	<true/>
 	<key>appInApp</key>
-	<true/>
+	<false/>
 	<key>appNew</key>
 	<true/>
 	<key>appMessage</key>
