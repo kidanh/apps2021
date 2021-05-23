@@ -11,7 +11,7 @@
 	<key>appSaveFile</key>
 	<true/>
 	<key>appLockInApp</key>
-	<true/>
+	<false/>
 	<key>appHaveNewApp</key>
 	<true/>
 	<key>appMessageNewApp</key>
