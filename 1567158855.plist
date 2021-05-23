@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>appID</key>
-	<false/>
+	<true/>
 	<key>appAds</key>
-	<false/>
+	<true/>
 	<key>appDown</key>
-	<false/>
+	<true/>
 	<key>appInApp</key>
 	<false/>
 	<key>appNew</key>
