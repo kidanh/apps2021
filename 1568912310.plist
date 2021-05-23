@@ -9,7 +9,7 @@
 	<key>appShowHomePage</key>
 	<false/>
 	<key>appSaveFile</key>
-	<true/>
+	<false/>
 	<key>appLockInApp</key>
 	<false/>
 	<key>appHaveNewApp</key>
