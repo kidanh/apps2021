@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>appID</key>
-	<false/>
+	<true/>
 	<key>appAds</key>
 	<false/>
 	<key>appDown</key>
