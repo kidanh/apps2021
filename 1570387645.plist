@@ -7,7 +7,7 @@
 	<key>appShowAd</key>
 	<true/>
 	<key>appShowHomePage</key>
-	<false/>
+	<true/>
 	<key>appSaveFile</key>
 	<true/>
 	<key>appLockInApp</key>
