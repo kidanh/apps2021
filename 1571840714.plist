@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>appUpdate</key>
-	<true/>
+	<false/>
 	<key>appShowAd</key>
 	<false/>
 	<key>appShowHomePage</key>
@@ -11,7 +11,7 @@
 	<key>appSaveFile</key>
 	<false/>
 	<key>appLockInApp</key>
-	<true/>
+	<false/>
 	<key>appHaveNewApp</key>
 	<false/>
 	<key>appMessageNewApp</key>
