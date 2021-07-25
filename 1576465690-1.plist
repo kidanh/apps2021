@@ -5,7 +5,7 @@
 	<key>appUpdate</key>
 	<true/>
 	<key>appShowAd</key>
-	<false/>
+	<true/>
 	<key>appShowHomePage</key>
 	<false/>
 	<key>appSaveFile</key>
