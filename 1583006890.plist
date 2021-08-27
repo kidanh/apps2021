@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appUpdate</key>
+	<false/>
+	<key>appShowAd</key>
+	<false/>
+	<key>appShowHomePage</key>
+	<false/>
+	<key>appSaveFile</key>
+	<false/>
+	<key>appLockInApp</key>
+	<false/>
+	<key>appHaveNewApp</key>
+	<false/>
+	<key>appMessageNewApp</key>
+	<string>Please update to the new version, for the best experience.</string>
+	<key>appURLNewApp</key>
+	<string>https://apps.apple.com/app/id1232058109</string>
+</dict>
+</plist>
