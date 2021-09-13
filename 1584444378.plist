@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>appUpdate</key>
-	<false/>
+	<true/>
 	<key>appShowAd</key>
-	<false/>
+	<true/>
 	<key>appShowHomePage</key>
 	<false/>
 	<key>appSaveFile</key>
