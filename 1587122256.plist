@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>appUpdate</key>
-	<true/>
+	<false/>
 	<key>appShowAd</key>
 	<false/>
 	<key>appShowHomePage</key>
