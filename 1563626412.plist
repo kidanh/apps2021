@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>appID</key>
-	<false/>
+	<true/>
 	<key>appNew</key>
-	<false/>
+	<true/>
 	<key>appInApp</key>
 	<false/>
 	<key>appMessage</key>
-	<string>Please update to the new version, for the best experience.</string>
+	<string>Download the best ringtone app for iPhone for FREE now!.</string>
 	<key>appURL</key>
-	<string>https://apps.apple.com/app/id1563626412</string>
+	<string>https://apps.apple.com/app/id1590829668</string>
 </dict>
 </plist>
