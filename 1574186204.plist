@@ -13,10 +13,10 @@
 	<key>appLockInApp</key>
 	<false/>
 	<key>appHaveNewApp</key>
-	<false/>
+	<true/>
 	<key>appMessageNewApp</key>
-	<string>Please update to the new version, for the best experience.</string>
+	<string>Download the best ringtone app for iPhone for FREE now!.</string>
 	<key>appURLNewApp</key>
-	<string>https://apps.apple.com/app/id1232058109</string>
+	<string>https://apps.apple.com/app/id1590829668</string>
 </dict>
 </plist>
